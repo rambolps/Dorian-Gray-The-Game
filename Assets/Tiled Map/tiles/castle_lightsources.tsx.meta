@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: f0d87afa880bef34c81b0662fefdbb8f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  missingFiles:
+  - Assets/Dorian Gray/Assets/Tiled Map/Assets/LPC Base Assets/tiles/castle_lightsources.png
+  errors:
+  - 'Missing texture asset: ../../Dorian Gray/Assets/Tiled Map/Assets/LPC Base Assets/tiles/castle_lightsources.png'
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 10
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: 2f48d52ae8eaf72479498847f5bd9ba7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4341305823815536265
+    second: sibyl_0
+  - first:
+      213: 8976070399922625339
+    second: sibyl_1
+  - first:
+      213: -8864138141625893986
+    second: sibyl_2
+  - first:
+      213: -857605707257766544
+    second: sibyl_3
+  - first:
+      213: 3242141545052278666
+    second: sibyl_4
+  - first:
+      213: -4348568820175241676
+    second: sibyl_5
+  - first:
+      213: 2775146299774969242
+    second: sibyl_6
+  - first:
+      213: 1095891000921402041
+    second: sibyl_7
+  - first:
+      213: 1064705438949965167
+    second: sibyl_8
+  - first:
+      213: 9163568490910689590
+    second: sibyl_9
+  - first:
+      213: -2885654433595787444
+    second: sibyl_10
+  - first:
+      213: -5787990162591079140
+    second: sibyl_11
+  - first:
+      213: 6845469887082370483
+    second: sibyl_12
+  - first:
+      213: -4172938492355094569
+    second: sibyl_13
+  - first:
+      213: -6695832226848506451
+    second: sibyl_14
+  - first:
+      213: 1711209191256515940
+    second: sibyl_15
+  - first:
+      213: -8084490544231391086
+    second: sibyl_16
+  - first:
+      213: 1759234285637063724
+    second: sibyl_17
+  - first:
+      213: -6546318819596699139
+    second: sibyl_18
+  - first:
+      213: -2203688604236851753
+    second: sibyl_19
+  - first:
+      213: -5805727969178341136
+    second: sibyl_20
+  - first:
+      213: -9202666068624171947
+    second: sibyl_21
+  - first:
+      213: 2436822315245660645
+    second: sibyl_22
+  - first:
+      213: 971274084993872888
+    second: sibyl_23
+  - first:
+      213: 3398550036569134496
+    second: sibyl_24
+  - first:
+      213: 4637621518588024985
+    second: sibyl_25
+  - first:
+      213: 6995037510207921542
+    second: sibyl_26
+  - first:
+      213: 393804969198277645
+    second: sibyl_27
+  - first:
+      213: -3192832821067253035
+    second: sibyl_28
+  - first:
+      213: 3899648673073828107
+    second: sibyl_29
+  - first:
+      213: -7945589874504406736
+    second: sibyl_30
+  - first:
+      213: -2819795856866868385
+    second: sibyl_31
+  - first:
+      213: -927672405821927606
+    second: sibyl_32
+  - first:
+      213: 3747932173280954194
+    second: sibyl_33
+  - first:
+      213: 4897892702248011256
+    second: sibyl_34
+  - first:
+      213: 6438500096998043239
+    second: sibyl_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sibyl_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 200
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771f32eba5590c3c0800000000000000
+      internalID: -4341305823815536265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 200
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b5942b878619c70800000000000000
+      internalID: 8976070399922625339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 199
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bb56c03514cf480800000000000000
+      internalID: -8864138141625893986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 198
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d9d8d272c2914f0800000000000000
+      internalID: -857605707257766544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 199
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f8060ce866efc20800000000000000
+      internalID: 3242141545052278666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 200
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e7d10a2b7c6a3c0800000000000000
+      internalID: -4348568820175241676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 199
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95a3d53bdc438620800000000000000
+      internalID: 2775146299774969242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 198
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baa77e1f03653f00800000000000000
+      internalID: 1095891000921402041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 199
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6df907a4f796ce00800000000000000
+      internalID: 1064705438949965167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 135
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639a1b7edf88b2f70800000000000000
+      internalID: 9163568490910689590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 135
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47fdfcd49814f7d0800000000000000
+      internalID: -2885654433595787444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 135
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15ad4bfc9decafa0800000000000000
+      internalID: -5787990162591079140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 136
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b59d2ce79efffe50800000000000000
+      internalID: 6845469887082370483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 135
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7de95ec8eb616c0800000000000000
+      internalID: -4172938492355094569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 134
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadf413d010a313a0800000000000000
+      internalID: -6695832226848506451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_15
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 134
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4656a3d61bf6fb710800000000000000
+      internalID: 1711209191256515940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_16
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 135
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2906519feae1ecf80800000000000000
+      internalID: -8084490544231391086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_17
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 135
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24d510134e0a6810800000000000000
+      internalID: 1759234285637063724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 71
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9fb7ba7bdc625a0800000000000000
+      internalID: -6546318819596699139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 71
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5d2ecd3ecea61e0800000000000000
+      internalID: -2203688604236851753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 71
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0339e0c29ed6fa0800000000000000
+      internalID: -5805727969178341136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 70
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c9d19e7ff894080800000000000000
+      internalID: -9202666068624171947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 71
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e966f02cf451d120800000000000000
+      internalID: 2436822315245660645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_23
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 71
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f33a9f52a8aa7d00800000000000000
+      internalID: 971274084993872888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_24
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 71
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5181180431a2f20800000000000000
+      internalID: 3398550036569134496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_25
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 70
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998952233342c5040800000000000000
+      internalID: 4637621518588024985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_26
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 71
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dd972ed8d531160800000000000000
+      internalID: 6995037510207921542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 7
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04d8d37883177500800000000000000
+      internalID: 393804969198277645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 7
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daf3113777c0b3d0800000000000000
+      internalID: -3192832821067253035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_29
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 7
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0193639ec55e1630800000000000000
+      internalID: 3899648673073828107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_30
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 8
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039693f4b189bb190800000000000000
+      internalID: -7945589874504406736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_31
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 7
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53055cab921ed8d0800000000000000
+      internalID: -2819795856866868385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_32
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 6
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f4d07acde3023f0800000000000000
+      internalID: -927672405821927606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_33
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 6
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2574ba64474530430800000000000000
+      internalID: 3747932173280954194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 7
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f58879667fc8f340800000000000000
+      internalID: 4897892702248011256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sibyl_35
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 7
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ee2efb9b52a5950800000000000000
+      internalID: 6438500096998043239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

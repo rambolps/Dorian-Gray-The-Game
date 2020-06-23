@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: de9a10a4a8bce964ea6486bc8b518030
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6761269526168020264
+    second: servent_0
+  - first:
+      213: 2517507138279907378
+    second: servent_1
+  - first:
+      213: -8581620360836318359
+    second: servent_2
+  - first:
+      213: -6911439749363811284
+    second: servent_3
+  - first:
+      213: -418711975028894925
+    second: servent_4
+  - first:
+      213: -2356221590867421099
+    second: servent_5
+  - first:
+      213: -7799613299599903428
+    second: servent_6
+  - first:
+      213: 2316494594027729003
+    second: servent_7
+  - first:
+      213: -3748811786966544113
+    second: servent_8
+  - first:
+      213: -4147469317187240479
+    second: servent_9
+  - first:
+      213: -5596624909829742340
+    second: servent_10
+  - first:
+      213: 8933853215349937552
+    second: servent_11
+  - first:
+      213: -2392866305159601959
+    second: servent_12
+  - first:
+      213: -3996169712806634847
+    second: servent_13
+  - first:
+      213: -2816140927988734951
+    second: servent_14
+  - first:
+      213: -6734736685650329075
+    second: servent_15
+  - first:
+      213: 3602247453694762458
+    second: servent_16
+  - first:
+      213: -1873632273140278487
+    second: servent_17
+  - first:
+      213: -147385355860102031
+    second: servent_18
+  - first:
+      213: 7170219215008250964
+    second: servent_19
+  - first:
+      213: -2330609590610634328
+    second: servent_20
+  - first:
+      213: -1075295102300447994
+    second: servent_21
+  - first:
+      213: 2515139972351707565
+    second: servent_22
+  - first:
+      213: -2763494911806722530
+    second: servent_23
+  - first:
+      213: 8092293506856191555
+    second: servent_24
+  - first:
+      213: -8449411936221467114
+    second: servent_25
+  - first:
+      213: -4316687746746144418
+    second: servent_26
+  - first:
+      213: 3436800954819313064
+    second: servent_27
+  - first:
+      213: 702601758434955439
+    second: servent_28
+  - first:
+      213: 373946308048657631
+    second: servent_29
+  - first:
+      213: -5823434418311006582
+    second: servent_30
+  - first:
+      213: -7078311093886719293
+    second: servent_31
+  - first:
+      213: -1662555296427831224
+    second: servent_32
+  - first:
+      213: -6033554304747335594
+    second: servent_33
+  - first:
+      213: 8036349847939698044
+    second: servent_34
+  - first:
+      213: -2282159477631541467
+    second: servent_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: servent_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 201
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8252be1bfcad4dd50800000000000000
+      internalID: 6761269526168020264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 201
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2302fa8676bffe220800000000000000
+      internalID: 2517507138279907378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 200
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b771bcfb5f7e880800000000000000
+      internalID: -8581620360836318359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 199
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cb7a49a22a510a0800000000000000
+      internalID: -6911439749363811284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 200
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33353395daf603af0800000000000000
+      internalID: -418711975028894925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 201
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558dd3862f40d4fd0800000000000000
+      internalID: -2356221590867421099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 200
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c357fe3370532c390800000000000000
+      internalID: -7799613299599903428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 199
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60b2295f87d52020800000000000000
+      internalID: 2316494594027729003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 200
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01df04ba8b89fbc0800000000000000
+      internalID: -3748811786966544113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 136
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edf83851aa3176c0800000000000000
+      internalID: -4147469317187240479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 136
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0ee74fb4bc452b0800000000000000
+      internalID: -5596624909829742340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 137
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0951a607a2c6bfb70800000000000000
+      internalID: 8933853215349937552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 137
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0e5fdf5c4daced0800000000000000
+      internalID: -2392866305159601959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_13
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 136
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa5cfd91d0ca88c0800000000000000
+      internalID: -3996169712806634847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 136
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914eacd1fbe0be8d0800000000000000
+      internalID: -2816140927988734951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 136
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d024504aaa86982a0800000000000000
+      internalID: -6734736685650329075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 136
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add188e39f0cdf130800000000000000
+      internalID: 3602247453694762458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_17
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 136
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b14cfdf558ff5e0800000000000000
+      internalID: -1873632273140278487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 72
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1743ddabcc164fdf0800000000000000
+      internalID: -147385355860102031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 72
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c3f38f26cb18360800000000000000
+      internalID: 7170219215008250964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 71
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9d889ece208afd0800000000000000
+      internalID: -2330609590610634328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 71
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b1aa63dc8c311f0800000000000000
+      internalID: -1075295102300447994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 71
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9c864aa7297e220800000000000000
+      internalID: 2515139972351707565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 72
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e2923f40816a9d0800000000000000
+      internalID: -2763494911806722530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 71
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3460d56d11a9d4070800000000000000
+      internalID: 8092293506856191555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_25
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 71
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ee2946c98adba80800000000000000
+      internalID: -8449411936221467114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_26
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 71
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e592ae87d5b0814c0800000000000000
+      internalID: -4316687746746144418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 8
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad7abb6248f1bf20800000000000000
+      internalID: 3436800954819313064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 8
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa09416a39420c900800000000000000
+      internalID: 702601758434955439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_29
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 9
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc1f489f26803500800000000000000
+      internalID: 373946308048657631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_30
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 9
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86f9cb10410f2fa0800000000000000
+      internalID: -5823434418311006582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_31
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 8
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caec270099c4cd90800000000000000
+      internalID: -7078311093886719293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 8
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84099f834ca6de8e0800000000000000
+      internalID: -1662555296427831224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_33
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 8
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6509184b352844ca0800000000000000
+      internalID: -6033554304747335594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 8
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dc539bb99d68f60800000000000000
+      internalID: 8036349847939698044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: servent_35
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 8
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f1bf6eb042450e0800000000000000
+      internalID: -2282159477631541467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

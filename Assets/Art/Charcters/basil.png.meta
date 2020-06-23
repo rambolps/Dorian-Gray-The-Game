@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: 0b3881b042fc56646b5cbb7084441049
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 455811182489776726
+    second: basil_0
+  - first:
+      213: -3073115250401196545
+    second: basil_1
+  - first:
+      213: -5557275536194501708
+    second: basil_2
+  - first:
+      213: -2047105917756648073
+    second: basil_3
+  - first:
+      213: 4558108810544323437
+    second: basil_4
+  - first:
+      213: -81333451549714411
+    second: basil_5
+  - first:
+      213: -1761297567296846383
+    second: basil_6
+  - first:
+      213: 1885714251967129211
+    second: basil_7
+  - first:
+      213: -7032806406730494063
+    second: basil_8
+  - first:
+      213: 2756634419139493972
+    second: basil_9
+  - first:
+      213: 3283165162279769872
+    second: basil_10
+  - first:
+      213: -1531045419678009119
+    second: basil_11
+  - first:
+      213: 4113627973897528183
+    second: basil_12
+  - first:
+      213: 4586874196716335076
+    second: basil_13
+  - first:
+      213: -609442593064698063
+    second: basil_14
+  - first:
+      213: -3521402596051894437
+    second: basil_15
+  - first:
+      213: -101873772597307427
+    second: basil_16
+  - first:
+      213: 797456452188538248
+    second: basil_17
+  - first:
+      213: 5818573807412533238
+    second: basil_18
+  - first:
+      213: -6894554910817602921
+    second: basil_19
+  - first:
+      213: 8002571837572754955
+    second: basil_20
+  - first:
+      213: -3525424015707134783
+    second: basil_21
+  - first:
+      213: -2096320220480818531
+    second: basil_22
+  - first:
+      213: 873085136730617120
+    second: basil_23
+  - first:
+      213: 7225505337647228327
+    second: basil_24
+  - first:
+      213: 4004581039598002297
+    second: basil_25
+  - first:
+      213: -1232265228648993008
+    second: basil_26
+  - first:
+      213: 5983508356403367846
+    second: basil_27
+  - first:
+      213: -2044259071551350209
+    second: basil_28
+  - first:
+      213: -2436374982788387540
+    second: basil_29
+  - first:
+      213: 2014798199009716927
+    second: basil_30
+  - first:
+      213: 2590532539962440210
+    second: basil_31
+  - first:
+      213: -2397806033858059240
+    second: basil_32
+  - first:
+      213: -8044241537518944186
+    second: basil_33
+  - first:
+      213: -4861891272723623357
+    second: basil_34
+  - first:
+      213: -7627369201145792637
+    second: basil_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: basil_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 199
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65234f00bdd535600800000000000000
+      internalID: 455811182489776726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 199
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5400a36f91a55d0800000000000000
+      internalID: -3073115250401196545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 198
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b38822f75790e2b0800000000000000
+      internalID: -5557275536194501708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 197
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775d38a83083793e0800000000000000
+      internalID: -2047105917756648073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 198
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b921430d7a14f30800000000000000
+      internalID: 4558108810544323437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 199
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518d50028ab0fdef0800000000000000
+      internalID: -81333451549714411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 198
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5038db13d9e87e0800000000000000
+      internalID: -1761297567296846383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 197
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7664680f176b2a10800000000000000
+      internalID: 1885714251967129211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 198
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fccb0a5d3766e90800000000000000
+      internalID: -7032806406730494063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 134
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450cc602668814620800000000000000
+      internalID: 2756634419139493972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 134
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0179f94f155209d20800000000000000
+      internalID: 3283165162279769872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 135
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e87a197d42a0cae0800000000000000
+      internalID: -1531045419678009119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 135
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773a54ae8da861930800000000000000
+      internalID: 4113627973897528183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_13
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 134
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efaea497c9d7af30800000000000000
+      internalID: 4586874196716335076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 134
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fb269c033da87f0800000000000000
+      internalID: -609442593064698063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 134
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f303ffef6712fc0800000000000000
+      internalID: -3521402596051894437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 134
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd79864f752169ef0800000000000000
+      internalID: -101873772597307427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_17
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 134
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8858a8c0b62211b00800000000000000
+      internalID: 797456452188538248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 70
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7573abc0abfb050800000000000000
+      internalID: 5818573807412533238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 70
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792ba4866de9150a0800000000000000
+      internalID: -6894554910817602921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 69
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ea114dfa8de0f60800000000000000
+      internalID: 8002571837572754955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 69
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c42525498d231fc0800000000000000
+      internalID: -3525424015707134783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 69
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92b5c2cddf58e2e0800000000000000
+      internalID: -2096320220480818531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 70
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02570895e42dd1c00800000000000000
+      internalID: 873085136730617120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 69
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5e62d72d6264460800000000000000
+      internalID: 7225505337647228327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_25
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 69
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970e0830d31239730800000000000000
+      internalID: 4004581039598002297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_26
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 69
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01faf49ad4d16eee0800000000000000
+      internalID: -1232265228648993008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 6
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af010ee521b90350800000000000000
+      internalID: 5983508356403367846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 6
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3adf43943551a3e0800000000000000
+      internalID: -2044259071551350209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 7
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2def339cd1403ed0800000000000000
+      internalID: -2436374982788387540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_30
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 7
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba2212894006fb10800000000000000
+      internalID: 2014798199009716927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_31
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 6
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a3d8fae9b63f320800000000000000
+      internalID: 2590532539962440210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 6
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8142a97cd1849bed0800000000000000
+      internalID: -2397806033858059240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_33
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 6
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640cdbc11fc1d5090800000000000000
+      internalID: -8044241537518944186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 6
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3429cb895a7178cb0800000000000000
+      internalID: -4861891272723623357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basil_35
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 6
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38733f28f14262690800000000000000
+      internalID: -7627369201145792637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

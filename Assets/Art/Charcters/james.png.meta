@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: 60883b504130bd14fb03549cca3d8fd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7047303457610331633
+    second: james_0
+  - first:
+      213: 1363803732178552030
+    second: james_1
+  - first:
+      213: -6356453491732265433
+    second: james_2
+  - first:
+      213: -9105802730464095977
+    second: james_3
+  - first:
+      213: 3970997363048025416
+    second: james_4
+  - first:
+      213: 5336191331560377636
+    second: james_5
+  - first:
+      213: -2979856227989161008
+    second: james_6
+  - first:
+      213: 3173329223550860577
+    second: james_7
+  - first:
+      213: 3544689720090723655
+    second: james_8
+  - first:
+      213: -6042911249109091278
+    second: james_9
+  - first:
+      213: -6449880836263979678
+    second: james_10
+  - first:
+      213: 7527367908956681902
+    second: james_11
+  - first:
+      213: 1592675724984545247
+    second: james_12
+  - first:
+      213: -449147245269060509
+    second: james_13
+  - first:
+      213: 5953579560684986574
+    second: james_14
+  - first:
+      213: 7366153712443548640
+    second: james_15
+  - first:
+      213: -4289747267575436229
+    second: james_16
+  - first:
+      213: 143900707776361682
+    second: james_17
+  - first:
+      213: -4937801924716732917
+    second: james_18
+  - first:
+      213: -7539983849835060331
+    second: james_19
+  - first:
+      213: 2301486484440304826
+    second: james_20
+  - first:
+      213: 7682376000191864485
+    second: james_21
+  - first:
+      213: 1928919655670892772
+    second: james_22
+  - first:
+      213: 5639735898148728659
+    second: james_23
+  - first:
+      213: -1972103269618659275
+    second: james_24
+  - first:
+      213: 7945902628999988440
+    second: james_25
+  - first:
+      213: 1327145907894112808
+    second: james_26
+  - first:
+      213: 6771071760729397264
+    second: james_27
+  - first:
+      213: 1324388872281466606
+    second: james_28
+  - first:
+      213: -5181579081175066148
+    second: james_29
+  - first:
+      213: -4749854806363732937
+    second: james_30
+  - first:
+      213: 8347313147035615858
+    second: james_31
+  - first:
+      213: -7856163266327876201
+    second: james_32
+  - first:
+      213: 4379969460006596973
+    second: james_33
+  - first:
+      213: -4799458181259835428
+    second: james_34
+  - first:
+      213: 5368182347989786509
+    second: james_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: james_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 198
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5fe3f082d0dc160800000000000000
+      internalID: 7047303457610331633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 198
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4cad7c4443de210800000000000000
+      internalID: 1363803732178552030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 197
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726c10a2a3759c7a0800000000000000
+      internalID: -6356453491732265433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 196
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711d7e749a0b1a180800000000000000
+      internalID: -9105802730464095977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 197
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d8d7cff01db1730800000000000000
+      internalID: 3970997363048025416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 198
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dcc236eb5fd0a40800000000000000
+      internalID: 5336191331560377636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 197
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db78f07c8c65a6d0800000000000000
+      internalID: -2979856227989161008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 196
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d7d15ad1ee90c20800000000000000
+      internalID: 3173329223550860577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 197
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7458cf41584413130800000000000000
+      internalID: 3544689720090723655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 133
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cf3a35c34432ca0800000000000000
+      internalID: -6042911249109091278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 133
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265d2e66d8b6d76a0800000000000000
+      internalID: -6449880836263979678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 134
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6b9034b35967860800000000000000
+      internalID: 7527367908956681902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 134
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf671e22225a1610800000000000000
+      internalID: 1592675724984545247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 133
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36474e9c5fe44c9f0800000000000000
+      internalID: -449147245269060509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_14
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 133
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0a7a8211d5f9250800000000000000
+      internalID: 5953579560684986574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_15
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 133
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e36f1f16c5d93660800000000000000
+      internalID: 7366153712443548640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_16
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 133
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ca6f39691c774c0800000000000000
+      internalID: -4289747267575436229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_17
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 133
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4ffe96eec3ff100800000000000000
+      internalID: 143900707776361682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 69
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ed402af47697bb0800000000000000
+      internalID: -4937801924716732917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 69
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593266a13a89c5790800000000000000
+      internalID: -7539983849835060331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 68
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc4d6883c580ff10800000000000000
+      internalID: 2301486484440304826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 68
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae1c6ae4484d9a60800000000000000
+      internalID: 7682376000191864485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 68
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8488cf436e4ca10800000000000000
+      internalID: 1928919655670892772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_23
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 69
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f6c243bed544e40800000000000000
+      internalID: 5639735898148728659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_24
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 68
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5305ef1668ea1a4e0800000000000000
+      internalID: -1972103269618659275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_25
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 68
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d403658754854e60800000000000000
+      internalID: 7945902628999988440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_26
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 68
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8225425fb28fa6210800000000000000
+      internalID: 1327145907894112808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01854f644eda7fd50800000000000000
+      internalID: 6771071760729397264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 5
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee621d499ac216210800000000000000
+      internalID: 1324388872281466606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 6
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd917f267455718b0800000000000000
+      internalID: -5181579081175066148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 6
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734020c2830251eb0800000000000000
+      internalID: -4749854806363732937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_31
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 5
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272810ec41d97d370800000000000000
+      internalID: 8347313147035615858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_32
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 5
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ded0d022d49f290800000000000000
+      internalID: -7856163266327876201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_33
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 5
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61b0ce8407c8cc30800000000000000
+      internalID: 4379969460006596973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_34
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 5
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd74aa77636e46db0800000000000000
+      internalID: -4799458181259835428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james_35
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 5
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f1475576d9f7a40800000000000000
+      internalID: 5368182347989786509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1952 @@
+fileFormatVersion: 2
+guid: e85610963100d78408741ecc05d7b949
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8254103670367092781
+    second: DorianGray_0
+  - first:
+      213: -8342063402581026800
+    second: DorianGray_1
+  - first:
+      213: -5465104381457324074
+    second: DorianGray_2
+  - first:
+      213: -708446846725866838
+    second: DorianGray_3
+  - first:
+      213: -8956060102716205637
+    second: DorianGray_4
+  - first:
+      213: 8883206718755875051
+    second: DorianGray_5
+  - first:
+      213: -7628219003983503584
+    second: DorianGray_6
+  - first:
+      213: 5241130074976243247
+    second: DorianGray_7
+  - first:
+      213: -486449630296627834
+    second: DorianGray_8
+  - first:
+      213: -1406539192988341414
+    second: DorianGray_9
+  - first:
+      213: 7736565510715945384
+    second: DorianGray_10
+  - first:
+      213: 858252087957798903
+    second: DorianGray_11
+  - first:
+      213: 985221322028307147
+    second: DorianGray_12
+  - first:
+      213: -7016690250099246980
+    second: DorianGray_13
+  - first:
+      213: -4749659797164332958
+    second: DorianGray_14
+  - first:
+      213: -7681940811094123558
+    second: DorianGray_15
+  - first:
+      213: 8973084407861875473
+    second: DorianGray_16
+  - first:
+      213: -4530097831115318038
+    second: DorianGray_17
+  - first:
+      213: 2245845338341331714
+    second: DorianGray_18
+  - first:
+      213: 2676419813142060910
+    second: DorianGray_19
+  - first:
+      213: -3667689332692686756
+    second: DorianGray_20
+  - first:
+      213: 6100964863958323089
+    second: DorianGray_21
+  - first:
+      213: 6791103852529974773
+    second: DorianGray_22
+  - first:
+      213: -6379006179939983785
+    second: DorianGray_23
+  - first:
+      213: -2096743469969562793
+    second: DorianGray_24
+  - first:
+      213: 4057179571919862057
+    second: DorianGray_25
+  - first:
+      213: -4382520683892208623
+    second: DorianGray_26
+  - first:
+      213: 6507500313572742067
+    second: DorianGray_27
+  - first:
+      213: -2162502952509922102
+    second: DorianGray_28
+  - first:
+      213: -637022599416657294
+    second: DorianGray_29
+  - first:
+      213: 2459598401849805797
+    second: DorianGray_30
+  - first:
+      213: 4270806112863475543
+    second: DorianGray_31
+  - first:
+      213: -5192791251289255168
+    second: DorianGray_32
+  - first:
+      213: 6821470820272143747
+    second: DorianGray_33
+  - first:
+      213: 1211982533108331059
+    second: DorianGray_34
+  - first:
+      213: -5808937345291778576
+    second: DorianGray_35
+  - first:
+      213: 4956470946600323833
+    second: DorianGray_36
+  - first:
+      213: -5374335758237430412
+    second: DorianGray_37
+  - first:
+      213: -2679642594142419599
+    second: DorianGray_38
+  - first:
+      213: -896841367898950687
+    second: DorianGray_39
+  - first:
+      213: 6646054033295303695
+    second: DorianGray_40
+  - first:
+      213: 6270565635646449299
+    second: DorianGray_41
+  - first:
+      213: 7812251450658764382
+    second: DorianGray_42
+  - first:
+      213: -5446623442781922254
+    second: DorianGray_43
+  - first:
+      213: 1985814860969624787
+    second: DorianGray_44
+  - first:
+      213: -5342050330407038113
+    second: DorianGray_45
+  - first:
+      213: 4080757512106589852
+    second: DorianGray_46
+  - first:
+      213: -439750185449900100
+    second: DorianGray_47
+  - first:
+      213: 8660798287798908292
+    second: DorianGray_48
+  - first:
+      213: 5424867075324804153
+    second: DorianGray_49
+  - first:
+      213: 5759173946317370651
+    second: DorianGray_50
+  - first:
+      213: -3176797522254811846
+    second: DorianGray_51
+  - first:
+      213: 1061748194719790004
+    second: DorianGray_52
+  - first:
+      213: 8756052581406455899
+    second: DorianGray_53
+  - first:
+      213: -777361982548396146
+    second: DorianGray_54
+  - first:
+      213: -3210502213327902626
+    second: DorianGray_55
+  - first:
+      213: 4949366873084734148
+    second: DorianGray_56
+  - first:
+      213: 4093616272767427923
+    second: DorianGray_57
+  - first:
+      213: -3894992710538035421
+    second: DorianGray_58
+  - first:
+      213: -3946046404273561538
+    second: DorianGray_59
+  - first:
+      213: -2353724439147878410
+    second: DorianGray_60
+  - first:
+      213: 5782826201681389250
+    second: DorianGray_61
+  - first:
+      213: 1737923717512799133
+    second: DorianGray_62
+  - first:
+      213: 1728002611076553488
+    second: DorianGray_63
+  - first:
+      213: -1757188896259166839
+    second: DorianGray_64
+  - first:
+      213: 6195269054847638877
+    second: DorianGray_65
+  - first:
+      213: 8466132597530907430
+    second: DorianGray_66
+  - first:
+      213: -8877708087959476130
+    second: DorianGray_67
+  - first:
+      213: 8222625634133349450
+    second: DorianGray_68
+  - first:
+      213: 389926439228366364
+    second: DorianGray_69
+  - first:
+      213: 8290166715762818084
+    second: DorianGray_70
+  - first:
+      213: -1514400806874610195
+    second: DorianGray_71
+  - first:
+      213: -2933851809553806105
+    second: DorianGray_72
+  - first:
+      213: -6990780868018904061
+    second: DorianGray_73
+  - first:
+      213: 599033597307816779
+    second: DorianGray_74
+  - first:
+      213: -6196621744312351586
+    second: DorianGray_75
+  - first:
+      213: 8906716244755880436
+    second: DorianGray_76
+  - first:
+      213: -5255460130992705897
+    second: DorianGray_77
+  - first:
+      213: -587443327808425521
+    second: DorianGray_78
+  - first:
+      213: -8300205314764506324
+    second: DorianGray_79
+  - first:
+      213: -2560509522017753142
+    second: DorianGray_80
+  - first:
+      213: -9065104295428314117
+    second: DorianGray_81
+  - first:
+      213: -7839846222229909800
+    second: DorianGray_82
+  - first:
+      213: 7486799015261245026
+    second: DorianGray_83
+  - first:
+      213: 4942475307163728939
+    second: DorianGray_84
+  - first:
+      213: -7083390003935591077
+    second: DorianGray_85
+  - first:
+      213: -9014057914572768140
+    second: DorianGray_86
+  - first:
+      213: -3680764977108961934
+    second: DorianGray_87
+  - first:
+      213: -1640084277236117721
+    second: DorianGray_88
+  - first:
+      213: 3017608271831251840
+    second: DorianGray_89
+  - first:
+      213: 7929839406320060868
+    second: DorianGray_90
+  - first:
+      213: 9196068604263014386
+    second: DorianGray_91
+  - first:
+      213: -3139374916592471152
+    second: DorianGray_92
+  - first:
+      213: 7303148182402834359
+    second: DorianGray_93
+  - first:
+      213: -6367256618422406148
+    second: DorianGray_94
+  - first:
+      213: -8872455406534556744
+    second: DorianGray_95
+  - first:
+      213: -3361653106853878387
+    second: DorianGray_96
+  - first:
+      213: 8891918532457220456
+    second: DorianGray_97
+  - first:
+      213: 9020361753351576668
+    second: DorianGray_98
+  - first:
+      213: -6158834606504576815
+    second: DorianGray_99
+  - first:
+      213: -2850520345283871067
+    second: DorianGray_100
+  - first:
+      213: -6030456002937060798
+    second: DorianGray_101
+  - first:
+      213: -3046195206124094109
+    second: DorianGray_102
+  - first:
+      213: -6870082921683717468
+    second: DorianGray_103
+  - first:
+      213: -4470126644864283105
+    second: DorianGray_104
+  - first:
+      213: -601703925520939566
+    second: DorianGray_105
+  - first:
+      213: 526382158147465068
+    second: DorianGray_106
+  - first:
+      213: 3262127067725011911
+    second: DorianGray_107
+  - first:
+      213: 4610608642554992000
+    second: DorianGray_108
+  - first:
+      213: -7136183674507617585
+    second: DorianGray_109
+  - first:
+      213: 978234523587101131
+    second: DorianGray_110
+  - first:
+      213: 1136991956433545811
+    second: DorianGray_111
+  - first:
+      213: 3483995744942163151
+    second: DorianGray_112
+  - first:
+      213: 8272713995556832054
+    second: DorianGray_113
+  - first:
+      213: 6320078441714981100
+    second: DorianGray_114
+  - first:
+      213: -2728204321119235307
+    second: DorianGray_115
+  - first:
+      213: 6009404186553440178
+    second: DorianGray_116
+  - first:
+      213: -3523546190668978394
+    second: DorianGray_117
+  - first:
+      213: 6363346750960513795
+    second: DorianGray_118
+  - first:
+      213: -7146621232862201131
+    second: DorianGray_119
+  - first:
+      213: -6170263900308902059
+    second: DorianGray_120
+  - first:
+      213: -6798897467885694158
+    second: DorianGray_121
+  - first:
+      213: -1944473763562226985
+    second: DorianGray_122
+  - first:
+      213: 1218210531119888250
+    second: DorianGray_123
+  - first:
+      213: -1893995755697708740
+    second: DorianGray_124
+  - first:
+      213: 7065578513793684516
+    second: DorianGray_125
+  - first:
+      213: -1107555583721002194
+    second: DorianGray_126
+  - first:
+      213: -6082315422216517132
+    second: DorianGray_127
+  - first:
+      213: -5718743915211131801
+    second: DorianGray_128
+  - first:
+      213: -7913163437633740595
+    second: DorianGray_129
+  - first:
+      213: -622097126002049734
+    second: DorianGray_130
+  - first:
+      213: 9015094994515162946
+    second: DorianGray_131
+  - first:
+      213: -4292004420588992506
+    second: DorianGray_132
+  - first:
+      213: 354012699773869210
+    second: DorianGray_133
+  - first:
+      213: -1659754088664005983
+    second: DorianGray_134
+  - first:
+      213: 675261012692487257
+    second: DorianGray_135
+  - first:
+      213: 9201690962213509539
+    second: DorianGray_136
+  - first:
+      213: -7148233828872695335
+    second: DorianGray_137
+  - first:
+      213: 8354647669750562937
+    second: DorianGray_138
+  - first:
+      213: 1376898549386927795
+    second: DorianGray_139
+  - first:
+      213: 6764845119998614851
+    second: DorianGray_140
+  - first:
+      213: -5902381110997198559
+    second: DorianGray_141
+  - first:
+      213: -8094753434512712454
+    second: DorianGray_142
+  - first:
+      213: 1893116125609587805
+    second: DorianGray_143
+  - first:
+      213: -1291781138239408914
+    second: DorianGray_144
+  - first:
+      213: 4216225864861712091
+    second: DorianGray_145
+  - first:
+      213: -9049264381425309955
+    second: DorianGray_146
+  - first:
+      213: -7644982521287556586
+    second: DorianGray_147
+  - first:
+      213: 5767726354241137193
+    second: DorianGray_148
+  - first:
+      213: 7703997531399836663
+    second: DorianGray_149
+  - first:
+      213: 9216473495054842017
+    second: DorianGray_150
+  - first:
+      213: 6125333943977108253
+    second: DorianGray_151
+  - first:
+      213: 4724238695030928602
+    second: DorianGray_152
+  - first:
+      213: -5932176290082101691
+    second: DorianGray_153
+  - first:
+      213: -5438742419885539219
+    second: DorianGray_154
+  - first:
+      213: 7221088029092275216
+    second: DorianGray_155
+  - first:
+      213: -7275283457405628543
+    second: DorianGray_156
+  - first:
+      213: -8216098937454923770
+    second: DorianGray_157
+  - first:
+      213: -8915938312679418043
+    second: DorianGray_158
+  - first:
+      213: -3753685348131480047
+    second: DorianGray_159
+  - first:
+      213: -5965590673568227797
+    second: DorianGray_160
+  - first:
+      213: -7316328190670425451
+    second: DorianGray_161
+  - first:
+      213: 8511891028171090607
+    second: DorianGray_162
+  - first:
+      213: -1586296747139638662
+    second: DorianGray_163
+  - first:
+      213: 7082170547401171023
+    second: DorianGray_164
+  - first:
+      213: 3915390227648039540
+    second: DorianGray_165
+  - first:
+      213: -1039951925387031954
+    second: DorianGray_166
+  - first:
+      213: -8297369641787404756
+    second: DorianGray_167
+  - first:
+      213: -7860204368892482290
+    second: DorianGray_168
+  - first:
+      213: 3002866754673401417
+    second: DorianGray_169
+  - first:
+      213: 4573139092509767897
+    second: DorianGray_170
+  - first:
+      213: 3192710975677915552
+    second: DorianGray_171
+  - first:
+      213: 309413501630492260
+    second: DorianGray_172
+  - first:
+      213: -5550943894457280993
+    second: DorianGray_173
+  - first:
+      213: 575607017344693409
+    second: DorianGray_174
+  - first:
+      213: -8600802516983262792
+    second: DorianGray_175
+  - first:
+      213: 5359499699335052794
+    second: DorianGray_176
+  - first:
+      213: -1711830780277079982
+    second: DorianGray_177
+  - first:
+      213: 110682048282040984
+    second: DorianGray_0
+  - first:
+      213: -1534375736057683625
+    second: DorianGray_1
+  - first:
+      213: 7131804248847673229
+    second: DorianGray_2
+  - first:
+      213: 534482419706414413
+    second: DorianGray_3
+  - first:
+      213: -7794061356917507782
+    second: DorianGray_4
+  - first:
+      213: 3375769253999531510
+    second: DorianGray_5
+  - first:
+      213: 3885497203876886726
+    second: DorianGray_6
+  - first:
+      213: -5783993285530217225
+    second: DorianGray_7
+  - first:
+      213: -2277168482752992734
+    second: DorianGray_8
+  - first:
+      213: 2630132056367817519
+    second: DorianGray_9
+  - first:
+      213: -6012646003930948712
+    second: DorianGray_10
+  - first:
+      213: -5393122376819169547
+    second: DorianGray_11
+  - first:
+      213: -8285733190156371177
+    second: DorianGray_12
+  - first:
+      213: -1552295350039970935
+    second: DorianGray_13
+  - first:
+      213: -1226806569494771797
+    second: DorianGray_14
+  - first:
+      213: 2858866981484168379
+    second: DorianGray_15
+  - first:
+      213: 8157008106047291835
+    second: DorianGray_16
+  - first:
+      213: 2192259537606238076
+    second: DorianGray_17
+  - first:
+      213: -2090094318013183357
+    second: DorianGray_18
+  - first:
+      213: 6920942084015124071
+    second: DorianGray_19
+  - first:
+      213: -8062405378956185925
+    second: DorianGray_20
+  - first:
+      213: 1071686375975711414
+    second: DorianGray_21
+  - first:
+      213: 1525946269948902639
+    second: DorianGray_22
+  - first:
+      213: 6223122378332264118
+    second: DorianGray_23
+  - first:
+      213: 8603969998724721167
+    second: DorianGray_24
+  - first:
+      213: 4825382230609752646
+    second: DorianGray_25
+  - first:
+      213: -8818061812388974664
+    second: DorianGray_26
+  - first:
+      213: 541119194500535722
+    second: DorianGray_27
+  - first:
+      213: -7176936237822974164
+    second: DorianGray_28
+  - first:
+      213: -3775400024728870558
+    second: DorianGray_29
+  - first:
+      213: -1059844018678985631
+    second: DorianGray_30
+  - first:
+      213: -8841807271581146477
+    second: DorianGray_31
+  - first:
+      213: 5849314267162028091
+    second: DorianGray_32
+  - first:
+      213: -1547786839314230500
+    second: DorianGray_33
+  - first:
+      213: 6028907216932502753
+    second: DorianGray_34
+  - first:
+      213: -6424222988110142566
+    second: DorianGray_35
+  - first:
+      213: -7321226710615641116
+    second: DorianGray_36
+  - first:
+      213: 1806910992472830085
+    second: DorianGray_37
+  - first:
+      213: -8375084677535270143
+    second: DorianGray_38
+  - first:
+      213: -7230758369963865422
+    second: DorianGray_39
+  - first:
+      213: 6693400899264230845
+    second: DorianGray_40
+  - first:
+      213: 774123716354331864
+    second: DorianGray_41
+  - first:
+      213: -8259587790786403997
+    second: DorianGray_42
+  - first:
+      213: -2237216250028331110
+    second: DorianGray_43
+  - first:
+      213: -8613289406769858915
+    second: DorianGray_44
+  - first:
+      213: 4320859778042679229
+    second: DorianGray_45
+  - first:
+      213: 1352764582299030776
+    second: DorianGray_46
+  - first:
+      213: -2698416383864644262
+    second: DorianGray_47
+  - first:
+      213: -1243204237786484066
+    second: DorianGray_48
+  - first:
+      213: 8268772272593676989
+    second: DorianGray_49
+  - first:
+      213: 7951724755665214098
+    second: DorianGray_50
+  - first:
+      213: 2406567640849298042
+    second: DorianGray_51
+  - first:
+      213: 6665357048784543296
+    second: DorianGray_52
+  - first:
+      213: 330285214198918838
+    second: DorianGray_53
+  - first:
+      213: 4129780559072094330
+    second: DorianGray_54
+  - first:
+      213: -6721158555442017849
+    second: DorianGray_55
+  - first:
+      213: 371007997749157437
+    second: DorianGray_56
+  - first:
+      213: -7340024633746215004
+    second: DorianGray_57
+  - first:
+      213: 4654112848342650884
+    second: DorianGray_58
+  - first:
+      213: 6562548784838720949
+    second: DorianGray_59
+  - first:
+      213: 6171250938986100795
+    second: DorianGray_60
+  - first:
+      213: 5011182575786026655
+    second: DorianGray_61
+  - first:
+      213: -5086377381961330737
+    second: DorianGray_62
+  - first:
+      213: -3377702921982291982
+    second: DorianGray_63
+  - first:
+      213: 7537319351142751786
+    second: DorianGray_64
+  - first:
+      213: -328911207232758875
+    second: DorianGray_65
+  - first:
+      213: 8426912694915760260
+    second: DorianGray_66
+  - first:
+      213: 6132796214759277769
+    second: DorianGray_67
+  - first:
+      213: -4628838258236171441
+    second: DorianGray_68
+  - first:
+      213: 702164279704937641
+    second: DorianGray_69
+  - first:
+      213: -3346378206318661806
+    second: DorianGray_70
+  - first:
+      213: -7111822981702233442
+    second: DorianGray_71
+  - first:
+      213: 6752908790180732297
+    second: DorianGray_72
+  - first:
+      213: -1062070129425881892
+    second: DorianGray_73
+  - first:
+      213: -7853129459140997797
+    second: DorianGray_74
+  - first:
+      213: 5912192560211249935
+    second: DorianGray_75
+  - first:
+      213: -3759323151533911523
+    second: DorianGray_76
+  - first:
+      213: -7831713607269707180
+    second: DorianGray_77
+  - first:
+      213: -5890963914446278464
+    second: DorianGray_78
+  - first:
+      213: -1313745361766130175
+    second: DorianGray_79
+  - first:
+      213: -7122076980918556353
+    second: DorianGray_80
+  - first:
+      213: -2917536293749179893
+    second: DorianGray_81
+  - first:
+      213: -45783481291963113
+    second: DorianGray_82
+  - first:
+      213: 5293801881490580253
+    second: DorianGray_83
+  - first:
+      213: 862042625567314712
+    second: DorianGray_84
+  - first:
+      213: -2141271693796690434
+    second: DorianGray_85
+  - first:
+      213: -9067603113417439827
+    second: DorianGray_86
+  - first:
+      213: -7984328292281489185
+    second: DorianGray_87
+  - first:
+      213: -8509892815693640482
+    second: DorianGray_88
+  - first:
+      213: 290285008407498488
+    second: DorianGray_89
+  - first:
+      213: -7910602279819629283
+    second: DorianGray_90
+  - first:
+      213: -196054290364347657
+    second: DorianGray_91
+  - first:
+      213: 7647148322422579064
+    second: DorianGray_92
+  - first:
+      213: -979165839847221726
+    second: DorianGray_93
+  - first:
+      213: 4448300925346968326
+    second: DorianGray_94
+  - first:
+      213: 404389667435549932
+    second: DorianGray_95
+  - first:
+      213: 2497497844982800512
+    second: DorianGray_96
+  - first:
+      213: -5108397665854193974
+    second: DorianGray_97
+  - first:
+      213: -3183399368905458918
+    second: DorianGray_98
+  - first:
+      213: -3633113324834006258
+    second: DorianGray_99
+  - first:
+      213: -6498208837898895497
+    second: DorianGray_100
+  - first:
+      213: 2434753660814074802
+    second: DorianGray_101
+  - first:
+      213: -6819593791466014836
+    second: DorianGray_102
+  - first:
+      213: 2176106935016845485
+    second: DorianGray_103
+  - first:
+      213: 3510118850263087488
+    second: DorianGray_104
+  - first:
+      213: 2481210461235218560
+    second: DorianGray_105
+  - first:
+      213: -5252416020248862323
+    second: DorianGray_106
+  - first:
+      213: -1589102376655625209
+    second: DorianGray_107
+  - first:
+      213: -1213124412463891793
+    second: DorianGray_108
+  - first:
+      213: -3119918728284218302
+    second: DorianGray_109
+  - first:
+      213: 3764911777522622724
+    second: DorianGray_110
+  - first:
+      213: -9217518869302740837
+    second: DorianGray_111
+  - first:
+      213: 4711886887133989752
+    second: DorianGray_112
+  - first:
+      213: -7754098664117223835
+    second: DorianGray_113
+  - first:
+      213: -5642127821530610620
+    second: DorianGray_114
+  - first:
+      213: 200851736942600353
+    second: DorianGray_115
+  - first:
+      213: 4352159355922313800
+    second: DorianGray_116
+  - first:
+      213: 4925024804138064968
+    second: DorianGray_117
+  - first:
+      213: -2527179656465974098
+    second: DorianGray_118
+  - first:
+      213: 1302818972712369489
+    second: DorianGray_119
+  - first:
+      213: -5983863818751233776
+    second: DorianGray_120
+  - first:
+      213: -8974874026591787692
+    second: DorianGray_121
+  - first:
+      213: 7929539522733817220
+    second: DorianGray_122
+  - first:
+      213: -7657027245621683629
+    second: DorianGray_123
+  - first:
+      213: 1573339571449993577
+    second: DorianGray_124
+  - first:
+      213: -7601971980476721177
+    second: DorianGray_125
+  - first:
+      213: 5661408176016160531
+    second: DorianGray_126
+  - first:
+      213: -4372879869214375347
+    second: DorianGray_127
+  - first:
+      213: 6026970660311136872
+    second: DorianGray_128
+  - first:
+      213: 3812380379975425377
+    second: DorianGray_129
+  - first:
+      213: 3032908993788922526
+    second: DorianGray_130
+  - first:
+      213: -5246301268728676511
+    second: DorianGray_131
+  - first:
+      213: -2937179855339639957
+    second: DorianGray_132
+  - first:
+      213: 3078850781923068131
+    second: DorianGray_133
+  - first:
+      213: 2237640820893905095
+    second: DorianGray_134
+  - first:
+      213: 1597809420073634927
+    second: DorianGray_135
+  - first:
+      213: -7263236000901185506
+    second: DorianGray_136
+  - first:
+      213: 3190510174583622071
+    second: DorianGray_137
+  - first:
+      213: -8231361383199636791
+    second: DorianGray_138
+  - first:
+      213: -6771678446924417126
+    second: DorianGray_139
+  - first:
+      213: -8585670756343427401
+    second: DorianGray_140
+  - first:
+      213: -5940164273332196398
+    second: DorianGray_141
+  - first:
+      213: 6178831604988603518
+    second: DorianGray_142
+  - first:
+      213: -6871771074951153682
+    second: DorianGray_143
+  - first:
+      213: 8162888688500227300
+    second: DorianGray_144
+  - first:
+      213: -5882652714086950754
+    second: DorianGray_145
+  - first:
+      213: 1248479999704466813
+    second: DorianGray_146
+  - first:
+      213: -5174198024528267347
+    second: DorianGray_147
+  - first:
+      213: -5350123302602406667
+    second: DorianGray_148
+  - first:
+      213: 7978435987285502398
+    second: DorianGray_149
+  - first:
+      213: -6812965621362835642
+    second: DorianGray_150
+  - first:
+      213: -1663688661839595669
+    second: DorianGray_151
+  - first:
+      213: 2204263761572244676
+    second: DorianGray_152
+  - first:
+      213: 7006763907569367248
+    second: DorianGray_153
+  - first:
+      213: 7812724033711154615
+    second: DorianGray_154
+  - first:
+      213: 5005575444966781056
+    second: DorianGray_155
+  - first:
+      213: 5035861407121576321
+    second: DorianGray_156
+  - first:
+      213: 4071834389681173120
+    second: DorianGray_157
+  - first:
+      213: 2603369839579972225
+    second: DorianGray_158
+  - first:
+      213: 5820669732543799192
+    second: DorianGray_159
+  - first:
+      213: 3638393617602790315
+    second: DorianGray_160
+  - first:
+      213: -6519071901444715174
+    second: DorianGray_161
+  - first:
+      213: -1593811640219800674
+    second: DorianGray_162
+  - first:
+      213: -3711204306170878897
+    second: DorianGray_163
+  - first:
+      213: 1628814287314396072
+    second: DorianGray_164
+  - first:
+      213: -5065263152713164880
+    second: DorianGray_165
+  - first:
+      213: 71594702291350566
+    second: DorianGray_166
+  - first:
+      213: -3944032942061844188
+    second: DorianGray_167
+  - first:
+      213: -1914039789274029953
+    second: DorianGray_168
+  - first:
+      213: 6157927849836910971
+    second: DorianGray_169
+  - first:
+      213: 4305636407213552408
+    second: DorianGray_170
+  - first:
+      213: -3820207658519790531
+    second: DorianGray_171
+  - first:
+      213: 2850440515706034186
+    second: DorianGray_172
+  - first:
+      213: 7616213479063288478
+    second: DorianGray_173
+  - first:
+      213: 7819936984353516029
+    second: DorianGray_174
+  - first:
+      213: -2172242867913987124
+    second: DorianGray_175
+  - first:
+      213: -8306177552623879744
+    second: DorianGray_176
+  - first:
+      213: 441257174821765713
+    second: DorianGray_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DorianGray_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 200
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df7584a178837d80800000000000000
+      internalID: -8254103670367092781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 200
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0181f5398890b3c80800000000000000
+      internalID: -8342063402581026800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 199
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d72eca358c0824b0800000000000000
+      internalID: -5465104381457324074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 198
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaab8aea8571b26f0800000000000000
+      internalID: -708446846725866838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 199
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb55d8ea9cea5b380800000000000000
+      internalID: -8956060102716205637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 200
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8aec9027d774b70800000000000000
+      internalID: 8883206718755875051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 199
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fddae5b3f132690800000000000000
+      internalID: -7628219003983503584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 198
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e4394d80c3cb840800000000000000
+      internalID: 5241130074976243247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_8
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 199
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685ac0973a8cf39f0800000000000000
+      internalID: -486449630296627834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 135
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5be34f5e08fa7ce0800000000000000
+      internalID: -1406539192988341414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 135
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a133c7875dcd5b60800000000000000
+      internalID: 7736565510715945384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 136
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff367e0abf19eb00800000000000000
+      internalID: 858252087957798903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 136
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc253ac82953cad00800000000000000
+      internalID: 985221322028307147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 135
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7833efb465bf9e90800000000000000
+      internalID: -7016690250099246980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 135
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268e01a4491d51eb0800000000000000
+      internalID: -4749659797164332958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_15
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 135
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb98217883446590800000000000000
+      internalID: -7681940811094123558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_16
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 135
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113143e3abcc68c70800000000000000
+      internalID: 8973084407861875473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_17
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 135
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec9a9a260cd121c0800000000000000
+      internalID: -4530097831115318038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 71
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2035d4caf68da2f10800000000000000
+      internalID: 2245845338341331714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 71
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f5628c3ad842520800000000000000
+      internalID: 2676419813142060910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 70
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58ec52fbffb91dc0800000000000000
+      internalID: -3667689332692686756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 70
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f006f283bfaa450800000000000000
+      internalID: 6100964863958323089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 70
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdf5da19f8de3e50800000000000000
+      internalID: 6791103852529974773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_23
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 71
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ed7a04da73977a0800000000000000
+      internalID: -6379006179939983785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_24
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 70
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753285f4ceed6e2e0800000000000000
+      internalID: -2096743469969562793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_25
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 70
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9293146235ffd4830800000000000000
+      internalID: 4057179571919862057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_26
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 70
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c8dc758a82e23c0800000000000000
+      internalID: -4382520683892208623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 7
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b31f369e094f4a50800000000000000
+      internalID: 6507500313572742067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 7
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4a9e9a50f3df1e0800000000000000
+      internalID: -2162502952509922102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27acfd72257d827f0800000000000000
+      internalID: -637022599416657294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 8
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb406807bf322220800000000000000
+      internalID: 2459598401849805797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_31
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 7
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7575bcd2883f44b30800000000000000
+      internalID: 4270806112863475543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_32
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 7
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003d52a9edf7fe7b0800000000000000
+      internalID: -5192791251289255168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_33
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 7
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d7300c19bbaae50800000000000000
+      internalID: 6821470820272143747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_34
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 7
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33276e741b3d1d010800000000000000
+      internalID: 1211982533108331059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DorianGray_35
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 7
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f50263f242826fa0800000000000000
+      internalID: -5808937345291778576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

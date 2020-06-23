@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: 244ec88df004bf0479d15f4d767f439b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6218326439407605605
+    second: agatha_0
+  - first:
+      213: 8558848991894963745
+    second: agatha_1
+  - first:
+      213: -4409251681896627488
+    second: agatha_2
+  - first:
+      213: -893420366136630850
+    second: agatha_3
+  - first:
+      213: 4045250026760907960
+    second: agatha_4
+  - first:
+      213: 4117569030092931060
+    second: agatha_5
+  - first:
+      213: 6662948322275894250
+    second: agatha_6
+  - first:
+      213: 5267597910608274552
+    second: agatha_7
+  - first:
+      213: 5068487616006405229
+    second: agatha_8
+  - first:
+      213: 142589847099863770
+    second: agatha_9
+  - first:
+      213: 4089055855333891451
+    second: agatha_10
+  - first:
+      213: 4352622888560644722
+    second: agatha_11
+  - first:
+      213: 3353991850913235765
+    second: agatha_12
+  - first:
+      213: 8088632216431929272
+    second: agatha_13
+  - first:
+      213: 453300268798583009
+    second: agatha_14
+  - first:
+      213: 2912823334387356162
+    second: agatha_15
+  - first:
+      213: 5017932553429239768
+    second: agatha_16
+  - first:
+      213: 8643476726869393855
+    second: agatha_17
+  - first:
+      213: -5591209511462053491
+    second: agatha_18
+  - first:
+      213: 5467087136375809432
+    second: agatha_19
+  - first:
+      213: -6680094608196745186
+    second: agatha_20
+  - first:
+      213: -3087489815035261394
+    second: agatha_21
+  - first:
+      213: -7220939999461557262
+    second: agatha_22
+  - first:
+      213: 1212361359968498231
+    second: agatha_23
+  - first:
+      213: -8364566126227361045
+    second: agatha_24
+  - first:
+      213: 2324505823597366720
+    second: agatha_25
+  - first:
+      213: -2036163420424605897
+    second: agatha_26
+  - first:
+      213: -7581727484410194498
+    second: agatha_27
+  - first:
+      213: 104851298234213864
+    second: agatha_28
+  - first:
+      213: -6515935512961845909
+    second: agatha_29
+  - first:
+      213: 8158983717989058670
+    second: agatha_30
+  - first:
+      213: -6402968741455740250
+    second: agatha_31
+  - first:
+      213: 3081673326173793077
+    second: agatha_32
+  - first:
+      213: -8778623251782707537
+    second: agatha_33
+  - first:
+      213: -8260235440578196279
+    second: agatha_34
+  - first:
+      213: -6519107875134639025
+    second: agatha_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: agatha_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 196
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5675f4653feeb4650800000000000000
+      internalID: 6218326439407605605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 196
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1260c18bfc327c670800000000000000
+      internalID: 8558848991894963745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 195
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2024fd4f03fc2c0800000000000000
+      internalID: -4409251681896627488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 194
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1a35919eee993f0800000000000000
+      internalID: -893420366136630850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 195
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc29b8777d932830800000000000000
+      internalID: 4045250026760907960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 196
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffb6d0973b842930800000000000000
+      internalID: 4117569030092931060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 195
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae32a02823c877c50800000000000000
+      internalID: 6662948322275894250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 194
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874656904644a1940800000000000000
+      internalID: 5267597910608274552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 195
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c378cf1a2e65640800000000000000
+      internalID: 5068487616006405229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 132
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2f6f0e5b49af100800000000000000
+      internalID: 142589847099863770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 132
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d58ebb2ae3fb830800000000000000
+      internalID: 4089055855333891451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 133
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27254e9b47f976c30800000000000000
+      internalID: 4352622888560644722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 133
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5330d3571d5cb8e20800000000000000
+      internalID: 3353991850913235765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 132
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7a43b3528904070800000000000000
+      internalID: 8088632216431929272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 132
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0245a51327a4600800000000000000
+      internalID: 453300268798583009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_15
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 132
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20290abc36d6c6820800000000000000
+      internalID: 2912823334387356162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_16
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 132
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7c40a321743a540800000000000000
+      internalID: 5017932553429239768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_17
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 132
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb10869b94cc3f770800000000000000
+      internalID: 8643476726869393855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 68
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89d484a2980862b0800000000000000
+      internalID: -5591209511462053491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895a9cfd8cefedb40800000000000000
+      internalID: 5467087136375809432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 67
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e184e64b8598b43a0800000000000000
+      internalID: -6680094608196745186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 67
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ecf271f580725d0800000000000000
+      internalID: -3087489815035261394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 67
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb3fa324511acb90800000000000000
+      internalID: -7220939999461557262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 68
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732f458cb3c23d010800000000000000
+      internalID: 1212361359968498231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 67
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2f3f1fc671beb80800000000000000
+      internalID: -8364566126227361045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_25
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 67
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd09d51bbd424020800000000000000
+      internalID: 2324505823597366720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 67
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f62fc38281eb3e0800000000000000
+      internalID: -2036163420424605897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb51aebc50b48c690800000000000000
+      internalID: -7581727484410194498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 4
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e52d7143b1847100800000000000000
+      internalID: 104851298234213864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_29
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 5
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b657e828c2fb295a0800000000000000
+      internalID: -6515935512961845909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 5
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e680fee96788a3170800000000000000
+      internalID: 8158983717989058670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 4
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2c991aad51427a0800000000000000
+      internalID: -6402968741455740250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 4
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ba260109d44ca20800000000000000
+      internalID: 3081673326173793077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_33
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 4
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6d184e9a01c2680800000000000000
+      internalID: -8778623251782707537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_34
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 4
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc8e33a1afbd5d80800000000000000
+      internalID: -8260235440578196279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agatha_35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 4
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44f5226de97785a0800000000000000
+      internalID: -6519107875134639025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

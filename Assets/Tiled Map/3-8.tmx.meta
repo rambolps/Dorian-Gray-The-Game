@@ -1,0 +1,54 @@
+fileFormatVersion: 2
+guid: c9cc433a0acdbef489efb5b3751461c2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  missingFiles: []
+  errors:
+  - Errors detected in tileset 'tiles/FogofWar.tsx'. Check the tileset inspector
+    for more details. Your map may be broken until these are fixed.
+  - Errors detected in tileset 'tiles/mist.tsx'. Check the tileset inspector for
+    more details. Your map may be broken until these are fixed.
+  - Errors detected in tileset 'tiles/black.tsx'. Check the tileset inspector for
+    more details. Your map may be broken until these are fixed.
+  - Could not find tile 2721. Make sure the tilesets were successfully imported.
+  - Could not find tile 2689. Make sure the tilesets were successfully imported.
+  - Could not find tile 2873. Make sure the tilesets were successfully imported.
+  - Could not find tile 3837. Make sure the tilesets were successfully imported.
+  - Could not find tile 2688. Make sure the tilesets were successfully imported.
+  - Could not find tile 2704. Make sure the tilesets were successfully imported.
+  - Could not find tile 2705. Make sure the tilesets were successfully imported.
+  - Could not find tile 2693. Make sure the tilesets were successfully imported.
+  - Could not find tile 2725. Make sure the tilesets were successfully imported.
+  - Could not find tile 2723. Make sure the tilesets were successfully imported.
+  - Could not find tile 2695. Make sure the tilesets were successfully imported.
+  - Could not find tile 2712. Make sure the tilesets were successfully imported.
+  - Could not find tile 2711. Make sure the tilesets were successfully imported.
+  - Could not find tile 2724. Make sure the tilesets were successfully imported.
+  - Could not find tile 2717. Make sure the tilesets were successfully imported.
+  - Could not find tile 2716. Make sure the tilesets were successfully imported.
+  - Could not find tile 2706. Make sure the tilesets were successfully imported.
+  - Could not find tile 2699. Make sure the tilesets were successfully imported.
+  - Could not find tile 2710. Make sure the tilesets were successfully imported.
+  - Could not find tile 2708. Make sure the tilesets were successfully imported.
+  - Could not find tile 2728. Make sure the tilesets were successfully imported.
+  - Could not find tile 2729. Make sure the tilesets were successfully imported.
+  - Could not find tile 2730. Make sure the tilesets were successfully imported.
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 21
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  sortingMode: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

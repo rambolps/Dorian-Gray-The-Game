@@ -1,0 +1,72 @@
+fileFormatVersion: 2
+guid: ecf6815a3efc7344fa023366413b711e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  missingFiles: []
+  errors: []
+  warnings:
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/hole.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/holek.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/holemid.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/house.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/inside.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/kitchen.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/lava.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/lavarock.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/mountains.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/rock.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/signs.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/stairs.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/treetop.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/trunk.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/victoria.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/water.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/waterfall.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/watergrass.tsx'
+    (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/barrel.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/brackish.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/bridges.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/buckets.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/cabinets.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/castle_lightsources.tsx'
+    (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/castle_outside.tsx'
+    (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/castlefloors.tsx'
+    (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/castlefloors_outside.tsx'
+    (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/castlewalls.tsx'
+    (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/cement.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/cementstair.tsx'
+    (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/chests.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/colonial.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/country.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/cup.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/dirt.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/dirt2.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/dungeon.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/grass.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/grassalt.tsx' (100)
+  - Pixels Per Unit mismatch between map (32) and tileset 'tiles/RED.tsx' (100)
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 21
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  sortingMode: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []
